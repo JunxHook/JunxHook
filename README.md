@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Novak!  
 
-<!--
-**JunxHook/JunxHook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/JunxHook?style=social)](https://github.com/JunxHook)  
+[![Discord](https://img.shields.io/badge/Discord-Contact-7289DA?logo=discord&logoColor=white)](#)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👾 About Me  
+- 🎸 Metalhead |  **thrash metal** | **hardstyle**.  
+- 🛠️ Skilled in **reverse engineering**, creating efficient tools for debugging and memory analysis. favorite movie in the series.  
+
+---
+
+## 💻 Tech Stack  
+- **Languages:** C++, C and Assembly 
+- **Game Hacking**
+- **Tools:** Ida Pro, Reclass, Cheat Engine and others  
+
+---
+
+## 🚀 Current Projects  
+- **Fivem-External** 
+- **DayZ-External** 
+- **DayZ-Internal** 
+---
+
+*"Always learning, always building."*  
