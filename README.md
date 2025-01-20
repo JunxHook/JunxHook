@@ -1,7 +1,4 @@
-# 👋 Hi there, I'm Novak!  
-
-[![GitHub followers](https://img.shields.io/github/followers/JunxHook?style=social)](https://github.com/JunxHook)  
-[![Discord](https://img.shields.io/badge/Discord-Contact-7289DA?logo=discord&logoColor=white)](#)  
+# I'm Novak!  
 
 ---
 
