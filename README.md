@@ -12,7 +12,7 @@
 - **Languages:** C++, C and Assembly 
 - **Game Hacking**
 - **Tools:** Ida Pro, Reclass, Cheat Engine and others  
-
+- **Discord** L33tWare_
 ---
 
 ## 🚀 Current Projects  
@@ -20,5 +20,7 @@
 - **DayZ-External** 
 - **DayZ-Internal** 
 ---
+
+
 
 *"Always learning, always building."*  
