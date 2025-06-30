@@ -9,7 +9,10 @@
 ---
 
 ## 💻 Tech Stack  
-- **Languages:** C++, C and Assembly | Actually learning java and python 
+**Languages:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
+<img src="https://img.icons8.com/ios-filled/50/microchip.png" alt="ASM" width="40"/>
 - **Game Hacking**
 - **Tools:** Ida Pro, Reclass, Cheat Engine and others  
 - **Discord** 3ykk
