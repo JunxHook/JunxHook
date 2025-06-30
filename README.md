@@ -1,4 +1,4 @@
-# I'm Novak!  
+# I'm João Gabriel!  
 
 ---
 
@@ -9,16 +9,14 @@
 ---
 
 ## 💻 Tech Stack  
-- **Languages:** C++, C and Assembly 
+- **Languages:** C++, C and Assembly | Actually learning java and python 
 - **Game Hacking**
 - **Tools:** Ida Pro, Reclass, Cheat Engine and others  
-- **Discord** L33tWare_
+- **Discord** 3ykk
 ---
 
 ## 🚀 Current Projects  
-- **Fivem-External** 
-- **DayZ-External** 
-- **DayZ-Internal** 
+- **Fentanyl (my web product franchise)** 
 ---
 
 
